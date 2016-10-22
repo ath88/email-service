@@ -10,16 +10,13 @@
         },
         "jobs": [
             {
-                "when": "2016-10-02T13:00:00",
+                "when": "2016-10-22T10:00:00",
                 "template": "demo"
             }
         ],
         "demoRecipients": {
             "subscription-id-1": {
-                "email": "asbjoern@thegler.dk"
-            },
-            "subscription-id-2": {
-                "email": "asbjoern@gmail.com"
+                "email": "niels.abildgaard@gmail.com"
             }
         }
     }
