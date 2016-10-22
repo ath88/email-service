@@ -10,23 +10,13 @@
         },
         "jobs": [
             {
-                "when": "2016-10-22T10:20:00",
+                "when": "2016-10-26T13:13:42",
                 "template": "invite-your-friends"
             },
             {
-                "when": "2016-10-22T10:15:00",
+                "when": "2016-11-01T14:13:32",
                 "template": "sale-started"
             }
-        ],
-        "demoRecipients": {
-            "subscription-id-1": {
-                "id": "subscription-id-1",
-                "email": "niels.abildgaard@gmail.com"
-            },
-            "subscription-id-2": {
-                "id": "subscription-id-2",
-                "email": "andersenghoej@gmail.com"
-            }
-        }
+        ]
     }
 }
