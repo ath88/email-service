@@ -11,7 +11,7 @@
         "jobs": [
             {
                 "when": "2016-10-22T10:00:00",
-                "template": "demo"
+                "template": "invite-your-friends"
             }
         ],
         "demoRecipients": {
