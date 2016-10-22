@@ -3,7 +3,7 @@
         "jobs": [
             {
                 "when": "* * * * *",
-                "template": "demo"
+                "template": "invite-your-friends"
             }
         ],
         "demoRecipients": {
