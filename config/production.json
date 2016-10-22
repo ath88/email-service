@@ -4,14 +4,18 @@
     },
     "mail": {
         "mailgun": {
-            "from": "etree.dk <info@etree.dk>",
+            "from": "etree.dk <kontakt@etree.dk>",
             "domain": "etree.dk",
             "apiKey": "please-supply-mailgun-apikey-in-env"
         },
         "jobs": [
             {
-                "when": "2016-10-22T10:00:00",
+                "when": "2016-10-22T10:20:00",
                 "template": "invite-your-friends"
+            },
+            {
+                "when": "2016-10-22T10:15:00",
+                "template": "sale-started"
             }
         ],
         "demoRecipients": {
