@@ -1,0 +1,43 @@
+<html>
+    <head>
+        <style type="text/css">
+            .container {
+                padding: 25px;
+                margin: 20px;
+                background: rgb(250,250,250);
+                border: 5px solid #e2e2e2;
+            }
+            .logo {
+                text-align: center;
+            }
+            .unsubscribe {
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <div class="logo">
+                <img src="http://etree.dk/assets/etreeLogo.png" alt="etree.dk" width="200px">
+            </div>
+            <h1>Nu kan du købe juletræ!</h1>
+            <h2>Vi har officielt startet juletræssalget!</h2>
+            <p>
+                Fordi du skrev dig på vores liste før salgets begyndelse, kan du få 15% rabat på levering.
+                Det får du ved at bruge <a href="http://etree.dk/?voucher=2016-{{ id }}">dette link</a> når du køber.
+            </p>
+            <p>
+                Alternativt kan du kopiere denne adresse ind i din browser: http://etree.dk/?voucher=2016-{{ id }}
+            </p>
+            <p>
+                Du får rabat på ét salg (kuponnen gælder kun én gang).
+            </p>
+            <p>
+                Vi håber du får en god jul!
+            </p>
+        </div>
+        <div class="unsubscribe">
+            <a href="http://etree.dk/unsubscribe/{{ id }}">Klik her for ikke at modtage yderligere mails fra etree. Du afmelder dig også de 15% rabat.</a>
+        </div>
+    </body>
+</html>
