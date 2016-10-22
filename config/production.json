@@ -10,7 +10,7 @@
         },
         "jobs": [
             {
-                "when": "2016-10-22T10:00:00",
+                "when": "2016-10-22T10:47:00",
                 "template": "invite-your-friends"
             }
         ],
