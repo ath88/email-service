@@ -10,27 +10,17 @@
         },
         "jobs": [
             {
-                "when": "2016-10-22T09:20:00",
-                "template": "invite-your-friends"
-            },
-            {
-                "when": "2016-10-22T11:00:00",
-                "template": "invite-your-friends"
-            },
-            {
-                "when": "2016-10-22T12:00:00",
-                "template": "invite-your-friends"
-            },
-            {
-                "when": "2016-10-22T13:00:00",
+                "when": "2016-10-22T10:00:00",
                 "template": "invite-your-friends"
             }
         ],
         "demoRecipients": {
             "subscription-id-1": {
+                "id": "subscription-id-1",
                 "email": "niels.abildgaard@gmail.com"
             },
             "subscription-id-2": {
+                "id": "subscription-id-2",
                 "email": "andersenghoej@gmail.com"
             }
         }
