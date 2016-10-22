@@ -1,6 +1,6 @@
 {
   "name": "email-service",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "mailgun email service for etree2",
   "scripts": {
     "start": "node service.js",
