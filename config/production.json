@@ -17,6 +17,9 @@
         "demoRecipients": {
             "subscription-id-1": {
                 "email": "niels.abildgaard@gmail.com"
+            },
+            "subscription-id-2": {
+                "email": "andersenghoej@gmail.com"
             }
         }
     }
